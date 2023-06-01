@@ -1,0 +1,37 @@
+li {list-style-type: none;}
+
+li {
+
+
+    border-radius: 4px;
+    border-color: rgba(1, 255, 26, 0.986);
+    padding: 10px 10px;
+    border-width: 4px;
+
+    text-align: center;5px
+    
+}
+
+img { 
+    
+    width: 200px;
+    border-radius: 5px;
+
+}
+
+
+
+button {
+
+    width: 200px;
+    border-radius: 4px;
+    padding: 5px 5px;
+    background-color: red;
+    color: white;
+    font-size: 500;
+    margin: 10px;
+}
+
+.nameContainer  {
+ 
+}
