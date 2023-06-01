@@ -7,6 +7,7 @@ li {
     border-color: rgba(1, 255, 26, 0.986);
     padding: 10px 10px;
     border-width: 4px;
+    width: 250px;
 
     text-align: center;5px
     
@@ -33,5 +34,23 @@ button {
 }
 
 .nameContainer  {
- 
+ display:flex;
+ justify-content: space-around;
+
+}
+
+
+.heart {
+    height: 20px;
+
+    width: 20px;
+
+    padding: 20px 20px;
+    max-resolution: 10px;
+    
+    
+}
+.nameContainer{
+    justify-self: center;
+    width: 250px;
 }
